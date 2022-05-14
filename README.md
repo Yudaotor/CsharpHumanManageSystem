@@ -1,5 +1,7 @@
 # CsharpHumanManageSystem
 C#做的人力资源管理系统
+csdn介绍:
+https://blog.csdn.net/qq_33884853/article/details/124571625?spm=1001.2014.3001.5501
 ## 功能介绍
 1. 能实现用户和管理员的**登录**,同时密码**不能明文存储**在数据库中
 2. 能针对不同的登录情况**做出不同的提示**
